@@ -1,0 +1,30 @@
+_repo: Coleccion-de-Documentos-Ineditos-Relativos-al-Descubrimiento-Conquista-y-Organizacion-de-las-__57388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Real Academia de la Historia (Spain)
+    aliases:
+    - Historia, Real Academia de la
+    - Academia de la Historia, Madrid
+    - Regia Historiae Academia Hispana
+    gutenberg_agent_id: '47252'
+    url: http://www.gutenberg.org/2009/agents/47252
+description: ''
+gutenberg_issued: '2018-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57388'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización
+  de las Antiguas Posesiones Españolas de Ultramar. Tomo 6, De La Isla De Cuba, III
+url: http://www.gutenberg.org/ebooks/57388
